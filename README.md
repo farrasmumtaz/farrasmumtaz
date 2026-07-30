@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there, I'm Farras 👋
 
-<!--
-**farrasmumtaz/farrasmumtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  src="./assets/github-banner.png"
+  alt="Farras GitHub Banner"
+  width="100%"
+/>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering student
+- 💻 Focused on Fullstack Web Development
+- ⚙️ Building applications with React, NestJS, Go, and PostgreSQL
+- 🔐 Interested in Web Security and DevOps
+- 🌱 Currently learning CI/CD, Docker, cloud infrastructure, and system design
+- 🤖 Using AI-assisted development while maintaining code understanding and ownership
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,nestjs,go,postgres,prisma,docker,nginx,git,github&perline=12" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=farrasmumtaz&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Farras GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasmumtaz&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Farras most used languages"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=farrasmumtaz&theme=tokyonight&hide_border=true"
+    alt="Farras contribution streak"
+  />
+</p>
+
+## 📌 Featured Projects
+
+### EcoPoin
+
+A sustainability platform that encourages responsible waste management through environmental incentives and traceable reward points.
+
+### BigKoil
+
+A fullstack company profile and content management platform with a React frontend, NestJS backend, PostgreSQL database, and automated deployment.
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:EMAIL_KAMU">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
