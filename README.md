@@ -117,7 +117,7 @@ A rental management backend application built with a focus on performance, cachi
 
 <img
   height="180"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=farrasmumtaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=farrasmumtaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"
   alt="Farras most used languages"
 />
 
