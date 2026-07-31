@@ -133,41 +133,6 @@ A rental management backend application built with a focus on performance, cachi
 
 `Go` `Redis` `Docker` `GitHub Actions` `REST API`
 
----
-
-### ♻️ EcoPoin
-
-A sustainability platform designed to encourage responsible waste management through environmental incentives and traceable reward points.
-
-**Focus:**
-
-* Waste submission and validation.
-* Environmental reward points.
-* User contribution tracking.
-* Transparent sustainability impact.
-* Community-based environmental participation.
-
-`React` `NestJS` `PostgreSQL` `Prisma`
-
----
-
-### 🛡️ VibeGuard — In Development
-
-A security analysis platform designed to identify logical inconsistencies and security weaknesses in AI-generated application requirements and source code.
-
-**Planned capabilities:**
-
-* PRD logical consistency analysis.
-* Authentication and authorization flow analysis.
-* Detection of exposed credentials and insecure configuration.
-* API security checklist generation.
-* Security recommendations based on application context.
-* Traceability between requirements, implementation, and security controls.
-
-`Application Security` `Static Analysis` `NestJS` `React` `PostgreSQL`
-
----
-
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -221,11 +186,3 @@ Frontend Development    █████████████░░░░░�
 * GitHub: [github.com/farrasmumtaz](https://github.com/farrasmumtaz)
 * LinkedIn: [Farras Mumtaz](https://www.linkedin.com/in/farras-mumtaz-18882233a)
 * Email: [farrasmumtaz10@gmail.com](mailto:farrasmumtaz10@gmail.com)
-
----
-
-<div align="center">
-
-### Secure systems are not created by features alone, but by understanding how those features can fail.
-
-</div>
