@@ -30,7 +30,7 @@
 * 🎓 Software Engineering student focused on becoming a professional Software Engineer.
 * 💻 Building fullstack applications with React, NestJS, Go, and PostgreSQL.
 * ⚙️ More interested in backend engineering, API development, and system architecture.
-* 🔐 Interested in application security, secure coding, and vulnerability analysis.
+* 🔐 Interested in application security, and secure coding.
 * 🚀 Learning Docker, CI/CD, Nginx, cloud infrastructure, and production deployment.
 * 📚 Currently improving my knowledge of system design, testing, monitoring, and DevOps.
 
