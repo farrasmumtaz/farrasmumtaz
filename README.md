@@ -2,16 +2,6 @@
 
 # Hi there, I'm Farras 👋
 
-### Software Engineering Student · Fullstack Developer · Backend Enthusiast
-
-<img
-src="./assets/github-banner.png"
-alt="Farras GitHub Banner"
-width="100%"
-/>
-
-<br />
-
 <a href="https://www.linkedin.com/in/farras-mumtaz-18882233a">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
