@@ -156,9 +156,3 @@ DevOps and CI/CD        ████████████████░░�
 System Design           ███████████████░░░░░
 Frontend Development    █████████████░░░░░░░
 ```
-
----
-
-## 🤝 Connect With Me
-* LinkedIn: [Farras Mumtaz](https://www.linkedin.com/in/farras-mumtaz-18882233a)
-* Email: [farrasmumtaz10@gmail.com](mailto:farrasmumtaz10@gmail.com)
