@@ -139,7 +139,7 @@ A rental management backend application built with a focus on performance, cachi
 
 </div>
 
-> The language statistics represent code distribution across public, non-forked repositories and do not indicate proficiency level.
+> The language statistics represent code distribution across public, non-forked repositories and do not indicate proficiency level. 
 
 ---
 
