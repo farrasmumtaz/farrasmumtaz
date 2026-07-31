@@ -42,19 +42,7 @@ width="100%"
 * ⚙️ More interested in backend engineering, API development, and system architecture.
 * 🔐 Interested in application security, secure coding, and vulnerability analysis.
 * 🚀 Learning Docker, CI/CD, Nginx, cloud infrastructure, and production deployment.
-* 🤖 Using AI-assisted development with an emphasis on code validation, security, and maintainability.
 * 📚 Currently improving my knowledge of system design, testing, monitoring, and DevOps.
-
----
-
-## 🎯 Current Focus
-
-* Building secure and maintainable fullstack applications.
-* Improving backend architecture and REST API design.
-* Learning Docker, Redis, CI/CD, Nginx, and server management.
-* Implementing automated testing and security validation.
-* Exploring security analysis for AI-generated applications.
-* Understanding application performance, scalability, and production reliability.
 
 ---
 
@@ -138,15 +126,15 @@ A rental management backend application built with a focus on performance, cachi
 <div align="center">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasmumtaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-alt="Farras most used languages"
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=farrasmumtaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Farras most used languages"
 />
 
 <img
-height="180"
-src="https://streak-stats.demolab.com?user=farrasmumtaz&theme=tokyonight&hide_border=true"
-alt="Farras GitHub contribution streak"
+  height="180"
+  src="https://streak-stats.demolab.com?user=farrasmumtaz&theme=tokyonight&hide_border=true"
+  alt="Farras GitHub contribution streak"
 />
 
 </div>
@@ -182,7 +170,5 @@ Frontend Development    █████████████░░░░░�
 ---
 
 ## 🤝 Connect With Me
-
-* GitHub: [github.com/farrasmumtaz](https://github.com/farrasmumtaz)
 * LinkedIn: [Farras Mumtaz](https://www.linkedin.com/in/farras-mumtaz-18882233a)
 * Email: [farrasmumtaz10@gmail.com](mailto:farrasmumtaz10@gmail.com)
