@@ -76,41 +76,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🏢 [BigKoil](https://github.com/farrasmumtaz/BigCoil)
-
-A fullstack company profile and content management platform with separated public website, admin dashboard, and backend API.
-
-**Highlights:**
-
-* React-based public website and admin dashboard.
-* NestJS REST API with Prisma ORM.
-* Authentication and authorization for administrators.
-* Automated production deployment.
-* Nginx reverse proxy and static file serving.
-* PM2 process management.
-
-`React` `Vite` `NestJS` `Prisma` `MySQL` `Nginx` `PM2`
-
----
-
-### 🏠 RentVibe
-
-A rental management backend application built with a focus on performance, caching, automated testing, and continuous integration.
-
-**Highlights:**
-
-* REST API built with Go.
-* Redis caching with fail-open fallback.
-* Automatic cache invalidation.
-* Docker and Docker Compose environment.
-* GitHub Actions CI pipeline.
-* Health check and graceful shutdown.
-* Automated unit and race-condition testing.
-
-`Go` `Redis` `Docker` `GitHub Actions` `REST API`
-
 ## 📊 GitHub Insights
 
 <div align="center">
