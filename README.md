@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Software Engineering student focused on becoming a professional Software Engineer.
-* 💻 Building fullstack applications with React, NestJS, Go, and PostgreSQL.
-* ⚙️ More interested in backend engineering, API development, and system architecture.
-* 🔐 Interested in application security, and secure coding.
-* 🚀 Learning Docker, CI/CD, Nginx, cloud infrastructure, and production deployment.
-* 📚 Currently improving my knowledge of system design, testing, monitoring, and DevOps.
+* Software Engineering student focused on becoming a professional Software Engineer.
+* Building fullstack applications with React, NestJS, Go, and PostgreSQL.
+* More interested in backend engineering, API development, and system architecture.
+* Interested in application security, and secure coding.
+* Learning Docker, CI/CD, Nginx, cloud infrastructure, and production deployment.
+* Currently improving my knowledge of system design, testing, monitoring, and DevOps.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -93,7 +93,7 @@ alt="Farras GitHub contribution activity"
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Interests
 
 ```text
 Backend Engineering     ████████████████████
