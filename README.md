@@ -69,7 +69,7 @@
 
 <img
   height="180"
-  src="https://streak-stats.demolab.com?user=farrasmumtaz&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=farrasmumtaz&theme=tokyonight&hide_border=true&timezone=Asia/Jakarta&count_private=true"
   alt="Farras GitHub contribution streak"
 />
 
